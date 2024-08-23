@@ -1,0 +1,93 @@
+# article class: post-16 page type-page status-publish has-post-thumbnail mv-content-wrapper entry
+# div class: entry-content
+# p (처음, 마지막 p 제외)
+
+***
+
+<article class="post-16 page type-page status-publish has-post-thumbnail mv-content-wrapper entry" aria-label="Topics" itemscope itemtype="https://schema.org/CreativeWork">
+	<header class="entry-header"><h1 class="entry-title" itemprop="headline">Topics</h1></header>
+	<div class="entry-content" itemprop="text">
+
+<p>Looking for conversation questions to match your topic? Look no further, take a look at our long list of topic based conversation questions. If you don’t see your topic let us know what we are missing and we’ll add it!</p>
+
+<p><a href="https://www.eslconversationquestions.com/topics/adoption/">Adoption</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/advice/">Advice</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/electric-cars/">Electric Cars</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/email/">Email</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/empathy/">Empathy</a></p>
+<div class="content_hint"></div>
+<p><a href="https://www.eslconversationquestions.com/topics/entrepreneurs/">Entrepreneurs</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/environmental-problems/">Environmental Problems</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/transitions/">Transitions</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/travel/">Travel</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/water/">Water</a></p>
+<p><a href="https://www.eslconversationquestions.com/topics/wishes/">Wishes</a></p>
+
+<p>If you are looking for conversation questions or conversations starters for<em> native speakers of English</em> instead of ESL students you can check out this page of <a href="https://conversationstartersworld.com/250-conversation-starters/" target="_blank" rel="noopener">250 conversation starter questions</a> or this page of <a href="https://conversationstartersworld.com/interesting-conversation-topics/" target="_blank" rel="noopener">topic based conversation questions</a>.</p>
+
+	</div>
+</article>
+
+
+------------
+
+
+# article class: post-2904 post type-post status-publish format-standard category-topics mv-content-wrapper entry
+# div class: entry-content
+# p (마지막 p 제외)
+
+***
+
+<article class="post-2904 post type-post status-publish format-standard category-topics mv-content-wrapper entry" aria-label="Adoption" itemscope itemtype="https://schema.org/CreativeWork">
+
+<header class="entry-header"><h1 class="entry-title" itemprop="headline">Adoption</h1></header>
+
+<div class="entry-content" itemprop="text">
+	<p>How is adoption viewed in your country?</p>
+	<p>Do you know anyone who was adopted? Can you think of any famous people who were adopted?</p>
+	<p>How does being adopted affect a child&#8217;s view of themselves?</p>
+	<p>What are some of the reasons people adopt children?</p>
+	<p>Would you ever adopt a child?</p>
+	<p>What is the maximum number of children a couple should be able to adopt?</p>
+	<p>What celebrities do you know of who adopted a child?</p>
+	<p>What are some ways that adoption rates could be improved?</p>
+	<p>&nbsp;</p>
+</div>
+
+<footer class="entry-footer">
+
+<div class="after-post" class="widget-area">
+<section id="randomtext-3" class="widget randomtext">
+<div class="widget-wrap">
+<div class="su-note"  style="border-color:#000000;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;">
+<div class="su-note-inner su-u-clearfix su-u-trim" style="background-color:#171717;border-color:#e3e3e3;color:#ffffff;border-radius:7px;-moz-border-radius:7px;-webkit-border-radius:7px;">
+<a href="https://gumroad.com/l/eslroleplays">
+<img class="alignleft size-full wp-image-3301" src="http://www.eslconversationquestions.com/wp-content/uploads/2015/06/ESL-Role-Plays-bottom-of-post.png" alt="ESL Role Plays book" width="125" height="125" /></a>
+<strong><a href="https://gumroad.com/l/eslroleplays">ESL Role Plays:</a></strong> 
+
+Check out role play book specifically designed for ESL / EFL classes. It&#8217;s packed with 50 role plays and is perfect for small or large classes. Pick it up and use one of the role plays in your next class.
+
+<strong>Available on: <a href="http://www.amazon.com/ESL-Role-Plays-Engaging-Classes/dp/1942116071/">Amazon (paper back / Kindle)</a> or <a href="https://gumroad.com/l/eslroleplays">Gumroad (PDF, Word, Epub, Mobi)</a>.</strong>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+<p class="entry-meta">
+	<span class="entry-categories">Filed Under: 
+		<a href="https://www.eslconversationquestions.com/category/topics/" rel="category tag">Topics</a>
+	</span>  by 
+	<span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+		<a href="https://www.eslconversationquestions.com/author/lpw38576/" class="entry-author-link" rel="author" itemprop="url">
+			<span class="entry-author-name" itemprop="name">Larry Pitts</span>
+		</a>
+	</span> 
+</p>
+
+</footer>
+</article>
+
+
+
+
